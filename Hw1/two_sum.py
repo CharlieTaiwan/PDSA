@@ -1,6 +1,6 @@
-from typing import List
-from operator import itemgetter
 import math
+from operator import itemgetter
+from typing import List
 
 
 class Solution:
